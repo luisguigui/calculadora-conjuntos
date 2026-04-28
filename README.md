@@ -1,4 +1,4 @@
-# 🔢 CALCULADORA DE TEORIA DOS CONJUNTOS —
+# 🔢 CALCULADORA DE TEORIA DOS CONJUNTOS
 
 > Um software educacional abrangente desenvolvido em Python com CustomTkinter que implementa operações de teoria dos conjuntos do básico ao avançado. Apresenta 16 operações distintas, categorizadas por dificuldade, com explicações teóricas passo a passo, visualização clara de fórmulas matemáticas e interface profissional.
 
